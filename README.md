@@ -1,5 +1,5 @@
 Hi 👋 My name is Lengrand Lucas
-===============================I'm junior web developer------------------------I started learning code with OpenClassrooms !* 🌍  I'm based in Paris, France* ✉️  You can contact me at [lucaslengranddev@gmail.com](mailto:lucaslengranddev@gmail.com)* 🧠  I'm learning React Native* ⚡  I'm ready to work !
+===============================I'm junior web developer------------------------I started learning code with OpenClassrooms !* 🌍  I'm based in Paris, France* ✉️  You can contact me at [lucaslengranddev@gmail.com](mailto:lucaslengranddev@gmail.com)* 🧠  I'm learning C++* ⚡  I'm ready to work !
 
 <a href="https://www.github.com/Melliaganz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Melliaganz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
