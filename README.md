@@ -1,7 +1,7 @@
 Hi 👋 My name is Lengrand Lucas
 ===============================
 
-I'm a web and mobile developer
+I've been a web and mobile developer for 2 years
 ---------------------------
 
 I started learning code with OpenClassrooms!
