@@ -8,7 +8,7 @@ I started learning code with OpenClassrooms!
 
 * 🌍  I'm based in Paris, France
 * ✉️  You can contact me at [lucaslengranddev@gmail.com](mailto:lucaslengranddev@gmail.com)
-* 🧠  I've  been and still am working at Impots.gouv.fr   <a href="https://www.impots.gouv.fr/accueil" target="_blank" rel="noreferrer">
+* 🧠  Currently working at Impots.gouv.fr <a href="https://www.impots.gouv.fr/accueil" target="_blank" rel="noreferrer">
     <img src="https://play-lh.googleusercontent.com/USmEIorB00VniQ8OQ7QMw5Gp4TRXj_NsFrBE-xqIwvipF2AdwgFKBn63P_mpHwqD8do" width="36" height="36" alt="impots.gouv.fr" />
   </a>
 * 🖥️ available for small projects on the weekends
@@ -26,10 +26,10 @@ I started learning code with OpenClassrooms!
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="36" height="36" alt="Android Studio" />
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" width="36" height="36" alt="Xcode" />
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/a6/b9/c4a6b957-7ccb-3a49-6726-2b5ac669ada4/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png" width="36" height="36" alt="Xcode" />
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="36" height="36" alt="React Native" />
+    <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" width="36" height="36" alt="React Native" />
   </a>
 </p>
 
