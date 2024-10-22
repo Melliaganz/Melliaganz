@@ -23,7 +23,7 @@ I started learning code with OpenClassrooms!
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="36" height="36" alt="Kotlin" />
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="36" height="36" alt="Android Studio" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" width="36" height="36" alt="Android Studio" />
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/a6/b9/c4a6b957-7ccb-3a49-6726-2b5ac669ada4/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png" width="36" height="36" alt="Xcode" />
