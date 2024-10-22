@@ -11,6 +11,7 @@ I started learning code with OpenClassrooms!
 * 🧠  Currently working at Impots.gouv.fr <a href="https://www.impots.gouv.fr/accueil" target="_blank" rel="noreferrer">
     <img src="https://play-lh.googleusercontent.com/USmEIorB00VniQ8OQ7QMw5Gp4TRXj_NsFrBE-xqIwvipF2AdwgFKBn63P_mpHwqD8do" width="36" height="36" alt="impots.gouv.fr" />
   </a>
+* 👤  
 * 🖥️ available for small projects on the weekends
 
 ### Skills
