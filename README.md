@@ -8,10 +8,9 @@ I started learning code with OpenClassrooms!
 
 * 🌍  I'm based in Paris, France
 * ✉️  You can contact me at [lucaslengranddev@gmail.com](mailto:lucaslengranddev@gmail.com)
-* 🧠  I'm learning C++
-* ⚡  I'm ready to work !
-
-Currently working at <a href="https://www.impots.gouv.fr" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_DGFiP_2011.svg/120px-Logo_DGFiP_2011.svg.png" alt="impots.gouv.fr logo" width="80" /></a>
+* 🧠  I've  been and still am working at Impots.gouv.fr   <a href="https://www.impots.gouv.fr/accueil" target="_blank" rel="noreferrer">
+    <img src="https://play-lh.googleusercontent.com/USmEIorB00VniQ8OQ7QMw5Gp4TRXj_NsFrBE-xqIwvipF2AdwgFKBn63P_mpHwqD8do" width="36" height="36" alt="impots.gouv.fr" />
+  </a>
 
 ### Skills
 
