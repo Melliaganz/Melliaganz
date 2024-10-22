@@ -7,11 +7,11 @@ I've been a web and mobile developer for 2 years
 I started learning code with OpenClassrooms!
 
 * 🌍  I'm based in Paris, France
+* 👤  I'm 28 yrs old
 * ✉️  You can contact me at [lucaslengranddev@gmail.com](mailto:lucaslengranddev@gmail.com)
 * 🧠  Currently working at Impots.gouv.fr <a href="https://www.impots.gouv.fr/accueil" target="_blank" rel="noreferrer">
     <img src="https://play-lh.googleusercontent.com/USmEIorB00VniQ8OQ7QMw5Gp4TRXj_NsFrBE-xqIwvipF2AdwgFKBn63P_mpHwqD8do" width="36" height="36" alt="impots.gouv.fr" />
   </a>
-* 👤  
 * 🖥️ available for small projects on the weekends
 
 ### Skills
